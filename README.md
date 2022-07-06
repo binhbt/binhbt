@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
   <a target="_blank" href="mailto: thanhbinh.gd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/binhbt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a target="_blank" href="#"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
+  <a target="_blank" href="https://deepxstudio.github.io/"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
 </div>
  
  
