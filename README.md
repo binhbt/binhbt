@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Leo Bui</h1>
 
 <p align="center">
-<img src="[https://github.com/binhbt/binhbt/raw/main/Boy-Working-From-Home.gif](https://github.com/binhbt/binhbt/raw/main/programmer.gif)" />
+<img src="[https://github.com/binhbt/binhbt/raw/main/Boy-Working-From-Home.gif](https://github.com/binhbt/binhbt/raw/main/programmer.gif" />
 </p>
 
 
